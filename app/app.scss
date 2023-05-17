@@ -19,3 +19,25 @@
   font-family: 'Font Awesome 5 Free', 'fa-regular-400';
   font-weight: 400;
 }
+
+.task {
+  height: 100px;
+  margin: 10;
+}
+
+.task-content {
+  padding-left: 10;
+}
+
+.button-task {
+  width: 20%;
+}
+
+.task-done {
+  font-size: 15%;
+  color:black;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+}
